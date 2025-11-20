@@ -279,7 +279,7 @@ Detailed VLAN strategy.
 
 - incident-scenario.md
 
-A real-world failure simulation for interviews.
+A real-world failure simulation.
 
 - network-policies.md
 
