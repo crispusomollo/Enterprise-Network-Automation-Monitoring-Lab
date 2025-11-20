@@ -270,15 +270,19 @@ Performs:
 Inside docs/:
 
 - deployment-guide.md
+
 Full install instructions (pfSense → Cisco → ELK → Zabbix → RADIUS).
 
 - vlan-plan.md
+
 Detailed VLAN strategy.
 
 - incident-scenario.md
+
 A real-world failure simulation for interviews.
 
 - network-policies.md
+
 Enterprise security & segmentation policy.
 
 
