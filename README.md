@@ -6,7 +6,7 @@ Terraform · Proxmox · Ansible · Cisco · pfSense · FreeRADIUS · ELK · Zabb
 ![GitHub repo size](https://img.shields.io/github/repo-size/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
 ![GitHub issues](https://img.shields.io/github/issues/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
-![GitHub license](https://img.shields.io/github/license/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab/license)
+![GitHub license](https://img.shields.io/github/license/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
 ![Ansible](https://img.shields.io/badge/automation-ansible-blue)
 ![Terraform](https://img.shields.io/badge/IaC-terraform-623CE4)
 ![Proxmox](https://img.shields.io/badge/virtualization-proxmox-orange)
