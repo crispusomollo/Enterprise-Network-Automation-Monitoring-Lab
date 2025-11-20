@@ -1,7 +1,6 @@
-🚀 Enterprise Network Automation & Monitoring Lab
-```
+# 🚀 Enterprise Network Automation & Monitoring Lab
+
 Terraform · Proxmox · Ansible · Cisco · pfSense · FreeRADIUS · ELK · Zabbix
-```
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/enterprise-network-lab)
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/enterprise-network-lab)
@@ -19,7 +18,7 @@ This project is a fully automated enterprise network environment that demonstrat
 
 It is designed as a portfolio-grade project showcasing senior-level skills across networking, DevOps, automation, and security.
 
-📡 1. Project Overview
+## 📡 1. Project Overview
 
 This lab simulates an enterprise environment including:
 
@@ -75,7 +74,8 @@ This project mirrors what a mid-size enterprise would deploy — making it ideal
 All configurations, automation playbooks, and documentation are fully reproducible.
 
 
-🏗 2. Lab Architecture
+## 🏗 3. Lab Architecture
+
 ```
                    +-----------------------+
                    |       Proxmox         |
@@ -97,7 +97,7 @@ All configurations, automation playbooks, and documentation are fully reproducib
 +-------------+----------------+--------------+---------------+-----------------+-------------+
 ```
 
-📁 3. Repository Structure
+## 📁 4. Repository Structure
 
 ```
 enterprise-network-lab/
@@ -159,7 +159,7 @@ enterprise-network-lab/
     └── ci-checks.yml
 ```
 
-🧱 4. VLAN & Subnet Design
+## 🧱 5. VLAN & Subnet Design
 
 ```
 | VLAN | Purpose               | Subnet        |
@@ -173,9 +173,9 @@ enterprise-network-lab/
 
 ```
 
-⚙️  5. Deployment Steps
+## 6. Deployment Steps
 
-Step 1 — Provision Virtual Machines with Terraform
+### Step 1 — Provision Virtual Machines with Terraform
 
 ```
 cd terraform
@@ -193,7 +193,7 @@ This automatically deploys:
 - Windows Server AD
 
 
-Step 2 — Run Ansible Master Playbook
+### Step 2 — Run Ansible Master Playbook
 
 ```
 ansible-playbook -i ansible/inventory.ini ansible/site.yml
@@ -213,9 +213,9 @@ This will:
 
 - Run final health checks
 
+## 🛠 7. Key Automations
 
-
-✔  FreeRADIUS Automation
+### ✔  FreeRADIUS Automation
 
 - 802.1X users
 
@@ -225,7 +225,7 @@ This will:
 
 - Automated client definitions
 
-✔  ELK Stack Automation
+### ✔  ELK Stack Automation
 
 - Elasticsearch install & tuning
 
@@ -235,7 +235,7 @@ This will:
 
 - Filebeat deployment on all hosts
 
-✔  Zabbix Automation
+### ✔  Zabbix Automation
 
 - Server installation
 
@@ -244,7 +244,7 @@ This will:
 - Agents deployed via Ansible role
 
 
-🧪 7. Monitoring & Health Checks
+## 🧪 8. Monitoring & Health Checks
 
 Script included:
 
@@ -265,7 +265,7 @@ Performs:
 - Switch SNMP reachability
 
 
-📚 8. Documentation
+📚 9. Documentation
 
 Inside docs/:
 
@@ -282,7 +282,7 @@ A real-world failure simulation for interviews.
 Enterprise security & segmentation policy.
 
 
-🎯 9. Purpose of This Project
+🎯 10. Purpose of This Project
 
 This repository demonstrates:
 
