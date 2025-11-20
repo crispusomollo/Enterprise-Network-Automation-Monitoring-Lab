@@ -214,6 +214,7 @@ This will:
 
 - Run final health checks
 
+
 ## 🛠 7. Key Automations
 
 ### ✔  FreeRADIUS Automation
@@ -266,7 +267,7 @@ Performs:
 - Switch SNMP reachability
 
 
-📚 9. Documentation
+## 📚 9. Documentation
 
 Inside docs/:
 
@@ -283,7 +284,7 @@ A real-world failure simulation for interviews.
 Enterprise security & segmentation policy.
 
 
-🎯 10. Purpose of This Project
+## 🎯 10. Purpose of This Project
 
 This repository demonstrates:
 
