@@ -2,11 +2,11 @@
 
 Terraform · Proxmox · Ansible · Cisco · pfSense · FreeRADIUS · ELK · Zabbix
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/enterprise-network-lab)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/enterprise-network-lab)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/enterprise-network-lab)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/enterprise-network-lab)
-![GitHub license](https://img.shields.io/github/license/yourusername/enterprise-network-lab)
+![GitHub last commit](https://img.shields.io/github/last-commit/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
+![GitHub repo size](https://img.shields.io/github/repo-size/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
+![GitHub issues](https://img.shields.io/github/issues/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
+![GitHub license](https://img.shields.io/github/license/crispusomollo/Enterprise-Network-Automation-Monitoring-Lab)
 ![Ansible](https://img.shields.io/badge/automation-ansible-blue)
 ![Terraform](https://img.shields.io/badge/IaC-terraform-623CE4)
 ![Proxmox](https://img.shields.io/badge/virtualization-proxmox-orange)
