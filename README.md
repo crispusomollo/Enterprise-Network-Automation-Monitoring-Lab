@@ -217,7 +217,7 @@ This will:
 
 ## 🛠 7. Key Automations
 
-**✔  FreeRADIUS Automation
+**✔  FreeRADIUS Automation**
 
 - 802.1X users
 
@@ -227,7 +227,7 @@ This will:
 
 - Automated client definitions
 
-**✔  ELK Stack Automation
+**✔  ELK Stack Automation**
 
 - Elasticsearch install & tuning
 
@@ -237,7 +237,7 @@ This will:
 
 - Filebeat deployment on all hosts
 
-**✔  Zabbix Automation
+**✔  Zabbix Automation**
 
 - Server installation
 
