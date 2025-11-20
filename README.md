@@ -14,9 +14,7 @@ Terraform · Proxmox · Ansible · Cisco · pfSense · FreeRADIUS · ELK · Zabb
 ![pfSense](https://img.shields.io/badge/firewall-pfSense-darkblue)
 
 
-This project is a fully automated enterprise network environment that demonstrates infrastructure-as-code (IaC), network automation, monitoring, logging, and authentication workflows.
-
-It is designed as a portfolio-grade project showcasing senior-level skills across networking, DevOps, automation, and security.
+This project is a fully automated enterprise network environment that demonstrates infrastructure-as-code (IaC), network automation, monitoring, logging, and authentication workflows. It is designed as a portfolio-grade project showcasing senior-level skills across networking, DevOps, automation, and security.
 
 ## 📡 1. Project Overview
 
@@ -38,10 +36,10 @@ This lab simulates an enterprise environment including:
 
 - Ansible for network & server automation
 
+
 ## 🏢 2. About This Project
 
-This repository contains a fully documented **Enterprise Networking & Monitoring Lab**, built to simulate a real-world corporate environment.  
-It combines **firewalling, switching, virtualization, monitoring, logging, and automation** into one cohesive engineering project suitable for professional portfolios.
+This repository contains a fully documented **Enterprise Networking & Monitoring Lab**, built to simulate a real-world corporate environment. It combines **firewalling, switching, virtualization, monitoring, logging, and automation** into one cohesive engineering project suitable for professional portfolios.
 
 The goal of this project is to demonstrate end-to-end capability across:
 
